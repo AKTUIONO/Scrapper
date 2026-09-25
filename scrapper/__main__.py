@@ -49,15 +49,15 @@ def main():
         sys.exit(f"No digest for {args.date}; run collect first")
 
     history = _load(HISTORY, [])
-    briefing = None if args.force else _load(ideas_path, None)
-    if briefing is None and args.command == "run":
+    briefing = _load(ideas_path, None)
+    if (briefing is None or args.force) and args.command == "run":
         if os.environ.get("ANTHROPIC_API_KEY"):
             print("ANTHROPIC_API_KEY found; generating ideas with Claude")
             briefing = ideas.generate(digest, history, args.ideas)
             _write(ideas_path, briefing)
             print(f"Generated {len(briefing['ideas'])} ideas")
         else:
-            print("ANTHROPIC_API_KEY not set; skipping idea generation")
+            print("::warning::ANTHROPIC_API_KEY not set; skipping idea generation")
     if briefing:
         new = [i["title"] for i in briefing["ideas"] if i["title"] not in history]
         _write(HISTORY, history + new)
