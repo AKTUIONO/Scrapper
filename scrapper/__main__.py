@@ -31,6 +31,7 @@ def main():
     ap.add_argument("command", choices=["run", "collect", "render"])
     ap.add_argument("--date", default=time.strftime("%Y-%m-%d", time.gmtime()))
     ap.add_argument("--ideas", type=int, default=3)
+    ap.add_argument("--force", action="store_true", help="regenerate ideas even if saved")
     args = ap.parse_args()
 
     day = ROOT / "data" / args.date
@@ -48,10 +49,15 @@ def main():
         sys.exit(f"No digest for {args.date}; run collect first")
 
     history = _load(HISTORY, [])
-    briefing = _load(ideas_path, None)
-    if briefing is None and args.command == "run" and os.environ.get("ANTHROPIC_API_KEY"):
-        briefing = ideas.generate(digest, history, args.ideas)
-        _write(ideas_path, briefing)
+    briefing = None if args.force else _load(ideas_path, None)
+    if briefing is None and args.command == "run":
+        if os.environ.get("ANTHROPIC_API_KEY"):
+            print("ANTHROPIC_API_KEY found; generating ideas with Claude")
+            briefing = ideas.generate(digest, history, args.ideas)
+            _write(ideas_path, briefing)
+            print(f"Generated {len(briefing['ideas'])} ideas")
+        else:
+            print("ANTHROPIC_API_KEY not set; skipping idea generation")
     if briefing:
         new = [i["title"] for i in briefing["ideas"] if i["title"] not in history]
         _write(HISTORY, history + new)

@@ -3,7 +3,12 @@ name: Daily frontier-tech briefing
 on:
   schedule:
     - cron: "5 11 * * *"   # 11:05 UTC = 7:05 AM US Eastern (6:05 in winter)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Regenerate today's ideas even if they already exist"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -23,7 +28,7 @@ jobs:
       - name: Scrape and generate ideas
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m scrapper run
+        run: python -m scrapper run ${{ inputs.force && '--force' || '' }}
       - name: Commit briefing
         run: |
           git config user.name "scrapper-bot"
