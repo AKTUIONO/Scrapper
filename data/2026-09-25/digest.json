@@ -1,28 +1,6 @@
 {
   "podcasts": [
     {
-      "source": "The Joe Rogan Experience",
-      "title": "#2558 - Tyler Engle",
-      "link": "https://traffic.megaphone.fm/GLT7969377226.mp3",
-      "published": "2026-09-24 17:00 UTC",
-      "ts": 1790269200,
-      "summary": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Visit https://ketone.com/Rogan for 30% OFF, or find Ketone-IQ at Target nationwide. Use code DRENCHED at https://BlueChew.com to get 10% OFF + Free Overnight Shipping on your first order Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "source": "The Joe Rogan Experience",
-      "title": "#2557 - Yakov Smirnoff",
-      "link": "https://traffic.megaphone.fm/GLT1399685644.mp3",
-      "published": "2026-09-23 17:00 UTC",
-      "ts": 1790182800,
-      "summary": "Yakov Smirnoff, PhD, is a comedian, actor, visual artist, host of the \"Comedy Couch\" podcast, and owner of the Yakov Theatre in Branson, Missouri. He is currently touring the United States.www.youtube.com/@YakovSmirnoffwww.yakov.com Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Visit https://squarespace.com/ROGAN to save 10% off your first purchase of a website or domain. Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "source": "Moonshots with Peter Diamandis",
       "title": "Ask the Mates Anything Round #2 | MOONSHOTS AMA #293",
       "link": "https://traffic.megaphone.fm/DVVTS4072450564.mp3",
@@ -32,17 +10,6 @@
       "topics": [
         "AI",
         "Superintelligence"
-      ]
-    },
-    {
-      "source": "The Joe Rogan Experience",
-      "title": "#2556 - Siddharth Kara",
-      "link": "https://traffic.megaphone.fm/GLT6395368742.mp3",
-      "published": "2026-09-22 17:00 UTC",
-      "ts": 1790096400,
-      "summary": "Siddharth Kara, PhD, is the author of several books, including \"Cobalt Red: How the Blood of the Congo Powers Our Lives,\" and, most recently, \"The Zorg: A Tale of Greed and Murder That Inspired the Abolition of Slavery.\"https://us.macmillan.com/books/9781250348227/thezorg/www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/siddharth-kara/index.aspx Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. 50% off your first box at https://www.thefarmersdog.com/rogan! MANSCAPED®: Get 15% off + free shipping on The Lawn Mower® Ultra Gen 6. Visit https://manscaped.com/joeroganexperience Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -294,7 +261,7 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTVhZU5rTVZHcWJuaUF1cDdWREI5YVFjeFZrREJfTU5xamhLdzdYcEk5M1p1cktnTUZ4MXpRSElSUThFMTVKRnZ6ekc0MDBoXy1iQ1d5UFpkdllWamZZaXBNYmpFNmZPLV81RzY4MGttSFNnTlNuc1lUOUFGdWRTRWNYaXBzcEIyMTVHZ0RiTXUycG50dFhkOTlJYzhkVVppaV9XRlJsQ3B1NkE?oc=5",
       "published": "2026-09-25 10:00 UTC",
       "ts": 1790330425,
-      "summary": "A doctor shares her muscle-building routine for longevity, from quick weightlifting workouts to daily protein businessinsider.com",
+      "summary": "A doctor shares her muscle-building routine for longevity, from quick weightlifting workouts to daily protein Business Insider",
       "topics": [
         "Biotech",
         "Longevity"
@@ -433,6 +400,18 @@
       ]
     },
     {
+      "source": "Google News: Longevity",
+      "title": "Sirtuin 6: This under-the-radar protein could be the key to longevity",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0w2R2lnVXVUb0pkYTFlTTh5UHhFdlFsOFdTakVEejlvZXI3b2V6MlhwN0FRUkVtaFdjYnd1WGNYTWlXTkhxZ0IzQnZWci1OVXRGVDdnc3owTGFZd1J3NE50TFBJRDQ4aE13anRKbkZmSUl5aVh6LW1IcmcybGNrNDBkam9rQU42alU0b252RnB3YS1Y?oc=5",
+      "published": "2026-09-24 18:03 UTC",
+      "ts": 1790273018,
+      "summary": "Sirtuin 6: This under-the-radar protein could be the key to longevity London Evening Standard",
+      "topics": [
+        "Biotech",
+        "Longevity"
+      ]
+    },
+    {
       "source": "Singularity Hub",
       "title": "A Digital Cell Predicts Which Drugs Will Be Most Effective in Deadly Breast Cancer",
       "link": "https://singularityhub.com/2026/09/24/a-digital-cell-predicts-which-drugs-will-be-most-effective-in-deadly-breast-cancer/",
@@ -454,18 +433,6 @@
       "topics": [
         "AI",
         "Energy & Space"
-      ]
-    },
-    {
-      "source": "Google News: Longevity",
-      "title": "Sirtuin 6: This under-the-radar protein could be the key to longevity",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0w2R2lnVXVUb0pkYTFlTTh5UHhFdlFsOFdTakVEejlvZXI3b2V6MlhwN0FRUkVtaFdjYnd1WGNYTWlXTkhxZ0IzQnZWci1OVXRGVDdnc3owTGFZd1J3NE50TFBJRDQ4aE13anRKbkZmSUl5aVh6LW1IcmcybGNrNDBkam9rQU42alU0b252RnB3YS1Y?oc=5",
-      "published": "2026-09-24 12:03 UTC",
-      "ts": 1790251418,
-      "summary": "Sirtuin 6: This under-the-radar protein could be the key to longevity London Evening Standard",
-      "topics": [
-        "Biotech",
-        "Longevity"
       ]
     },
     {
@@ -562,7 +529,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZURjTmFuRlhlMUtBcmdLYWpaR2IybjNYRkoxRExIblI1UVdMZTJmekJEakV2elc3ak1xS0dLRVRSdl83WGZiazBwUlhkQklpWElYN3M4c1RhZm1Nbm1QbHJ4Vy0zX3pCcm01NG1pZVdiOUJ2NVA3Nlh1SE4zTFNGR1NBNlhIZmx1Q21QRGFJdjM2REYtdng1UFFaaUI2ekhQQ1RkeVRwQU5DNlp0ZDZGYVRZWEtXRmJsWm9vejB0clFydncyZHllR2ZNNkNpUzhFRUZ3Z0V3?oc=5",
       "published": "2026-09-25 17:05 UTC",
       "ts": 1790355918,
-      "summary": "Grip strength is a predictor of longevity. Here's why this $15 gadget is important for healthy aging ca.style.yahoo.com",
+      "summary": "Grip strength is a predictor of longevity. Here's why this $15 gadget is important for healthy aging Yahoo Lifestyle Canada",
       "topics": [
         "Longevity"
       ]
@@ -606,7 +573,7 @@
       "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
       "published": "2026-09-25 15:29 UTC",
       "ts": 1790350165,
-      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 230 # Comments: 333",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 248 # Comments: 377",
       "topics": [
         "AI"
       ]
@@ -766,5 +733,7 @@
       ]
     }
   ],
-  "errors": {}
+  "errors": {
+    "The Joe Rogan Experience": "('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: invalid block type'))"
+  }
 }

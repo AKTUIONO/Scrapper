@@ -1,67 +1,10 @@
 # Frontier Tech & Impact Briefing — 2026-09-25
 
-## Today in one minute
-
-AI is now doing real science: Claude found a new CRISPR-like gene-editing system, and a 'digital cell' model is choosing breast-cancer drugs per patient. At the same time, the backlash is growing: a Sanders bill would ban superintelligence, frontier labs are talking about slowing down (Moonshots EP #291), and 'rogue agent' attacks and data leaks from AI-built apps are piling up. Meanwhile the physical buildout keeps speeding up (SpaceX adding about 500 MW of AI compute a month, Nscale raising $3.36B), and Moonshots EP #292 covers tokenization and the new 'Trump Accounts' for kids. The opening: whoever connects these capabilities to ordinary families gets both the impact and the trust.
-
-## Top signals
-
-- Anthropic/Claude discovered a CRISPR-like enzyme system (IFLScience, Gizmodo, New Scientist): AI is now finding new biology
-- A digital-cell model predicts the best drug for each patient's deadly breast cancer (Singularity Hub)
-- Moonshots EP #292: Vlad Tenev on tokenizing everything, Trump Accounts, and 100,000 AI agents entering markets
-- Moonshots EP #291: frontier labs want to slow down; Anthropic flagged 5 possible bioweapon cases
-- Sanders/Casar bill would ban superintelligent AI and create a Department of AI (The Next Web)
-- Vibe-coded apps on Supabase are exposing large amounts of personal data (TechCrunch); rogue AI agent attacks are rising (The Verge)
-- SpaceX is adding about 880,000 chips in four months, about 500 MW/month of AI data centers (NextBigFuture); Nscale raised $3.36B
-- Fairfax County is putting a quantum computer program in a public high school (The Quantum Insider)
-
-## New social-entrepreneurship ideas
-
-### 1. Kingdom Code Guard: an AI-app safety corps for churches and small nonprofits
-_Train young people from underserved communities as paid auditors who find and fix the data leaks in the AI-built apps that churches, ministries and small businesses now run on._  
-**Topics:** AI, Education, Cybersecurity
-
-- **Problem:** Churches, food banks, schools and mom-and-pop shops are 'vibe-coding' apps with AI tools and hosting them on platforms like Supabase. Those apps hold member rolls, children's check-in data, prayer requests and donations. TechCrunch shows many are publicly exposing this data. These groups can't afford a $15k security audit, and nobody is looking at them.
-- **Solution:** A 12-week apprenticeship turns youth from church youth groups, HBCUs and re-entry programs into certified 'AI app auditors'. They use an AI-driven scanner (misconfigured databases, exposed keys, open storage buckets, agent permissions), then do a human review and walk the client through the fixes. They also publish a free 'Safe App Seal' checklist that congregations can self-run.
-- **Why now:** App building by AI exploded in 2026, and the leaks are just being documented. Rogue-agent incidents and execution-verification tools (Salmon EVI) show the attack surface is growing faster than the defenders.
-- **Why nobody is doing it yet:** Security firms chase enterprise contracts. Faith-based and micro-organizations are too small to be worth a big firm's sales cycle, and nobody has paired this market with a workforce-development pipeline.
-- **Social impact:** Protects vulnerable people's data (children, the elderly, donors). It creates paid on-ramps into cybersecurity, a field with hundreds of thousands of open US jobs, for youth who are usually shut out.
-- **Business model:** Sliding-scale audits ($300-$2,500) plus a $30/month monitoring subscription. Denominations and associations buy seats in bulk. Workforce grants (WIOA, state apprenticeship funds) cover training costs, and graduates can be placed with IT firms for a fee.
-- **First step this week:** Scan five public church or nonprofit apps (with permission) using open-source Supabase and Firebase misconfiguration checkers, and document what you find. Then pitch the results to one pastor network as a free pilot.
-- **Built on:** [1](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/) [2](https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google) [3](https://www.nextbigfuture.com/2026/09/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems.html)
-
-### 2. Tumor Twin Access Cooperative
-_A patient-owned data cooperative that gets underserved cancer patients' tumors into AI 'digital cell' drug-matching, and pays them a dividend when pharma licenses the data._  
-**Topics:** Biotech, AI, Health equity
-
-- **Problem:** AI virtual-cell models can now predict which drugs will work on a specific patient's breast cancer. But these tools will reach wealthy academic centers first. Black women have about 40% higher breast-cancer mortality and more triple-negative disease, and they are underrepresented in the training data. The models will keep getting worse for exactly the people who need them most.
-- **Solution:** A co-op run with community oncology clinics and churches' health ministries. Patients consent to have their tumor samples and outcomes modeled by digital-cell partners, get a physician-reviewed report to discuss with their oncologist, and become co-owners of the anonymized dataset. When pharma or AI labs license the diverse data, members receive dividends.
-- **Why now:** Digital-cell drug prediction just crossed into patient-specific use. AI is also discovering new biology (the CRISPR-like system Claude found), so demand for diverse, well-consented biological data is about to spike.
-- **Why nobody is doing it yet:** Data today is extracted from patients for free by hospitals and brokers. Patient-owned data co-ops exist in theory, but no one has tied one to a concrete, valuable AI use case and to trusted community distribution through churches and community clinics.
-- **Social impact:** Better treatment matching for underserved patients, less bias in AI medicine, and a new form of wealth-building: families get a dividend from their own biology instead of having it taken.
-- **Business model:** Data-licensing revenue split (for example 50% to members, 50% to operations). Grant funding from ARPA-H and cancer foundations for the pilot. Per-report fees paid by clinics' research budgets.
-- **First step this week:** Contact the research team behind the digital-cell breast-cancer study and one Black-led health ministry or community oncology practice. Ask each: 'Would you pilot 25 patients under a co-op consent model?'
-- **Built on:** [1](https://singularityhub.com/2026/09/24/a-digital-cell-predicts-which-drugs-will-be-most-effective-in-deadly-breast-cancer/) [2](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX3pkV3NGTDR5Sm1XRGJFbVN4STA0Z0pRbHFrR1VzZ2VDTkhFZHB3YU90WF8zUW1peW9mTC1fR0M5Mm5IOGlkX09iY2JGWWFmc1lPWUNpTTZPM0pQN09BNGM4ekE5ZTUtOUttZnVkTUdDaUtNYWczdTZGR3JQQnlieXNRSkNTWXN2bjQ4Mk5mRjhvYXBXX3ZUbER1aTJ1cHpkXzVhcTBSRU8xc3lXSVhRSWNkR3pUOUpGYmZRMDZwU1BENHRHNV9SQjF1WWVHUC1KUldF?oc=5)
-
-### 3. Compute Dividend Compact: data-center benefits paid into local kids' accounts
-_Negotiate community-benefit agreements with AI data centers so that part of their revenue flows into the new Trump Accounts of every child in the host town, and track it transparently on a public ledger._  
-**Topics:** AI, Energy & Infrastructure, Financial inclusion
-
-- **Problem:** AI data centers (SpaceX's 500 MW/month, Nscale's $3.36B buildout) are landing in rural and working-class towns. They use enormous power and water and create few jobs. Communities get the costs and the backlash, and resistance is now slowing projects.
-- **Solution:** A nonprofit that represents host communities (organized through local churches and civic groups) and negotiates a 'Compute Dividend': a fraction of a cent per kWh or per GPU-hour paid into every local child's Trump Account. Deposits and balances are shown on a public ledger that families can check, which uses the tokenization and transparency ideas from Moonshots EP #292 without selling tokens.
-- **Why now:** Trump Accounts for kids are new. The data-center buildout is at record speed, and operators need faster local approval. The political mood is anti-AI (Sanders bill, calls to slow down), so developers need a credible way to share the upside.
-- **Why nobody is doing it yet:** Community-benefit agreements usually pay for one-time parks or schools. Nobody has linked AI infrastructure revenue directly to children's long-term wealth accounts, and the accounts themselves are brand new.
-- **Social impact:** It turns the AI boom into generational wealth for rural and low-income kids, builds local support for the infrastructure humanity needs, and models the 'abundance for everyone' future Diamandis describes.
-- **Business model:** Success fees from developers, who save months of permitting fights. Philanthropic seed funding for the first three communities. Later, a paid data-center 'community trust certification'. Legal and securities counsel is needed before any tokenized element.
-- **First step this week:** List the five nearest announced AI data-center projects. Find which host towns have organized opposition, and call one mayor or pastor there to test the idea.
-- **Built on:** [1](https://traffic.megaphone.fm/DVVTS4856020322.mp3) [2](https://www.nextbigfuture.com/2026/09/spacex-beating-bull-case-adding-880000-chips-in-four-month-500mw-per-month-elon-confirmed.html) [3](https://traffic.megaphone.fm/DVVTS8271193232.mp3)
+_Ideas not generated yet (no ANTHROPIC_API_KEY). Signals below._
 
 ## Podcasts this week
 
-- **The Joe Rogan Experience** — [#2558 - Tyler Engle](https://traffic.megaphone.fm/GLT7969377226.mp3) · 2026-09-24 17:00 UTC
-- **The Joe Rogan Experience** — [#2557 - Yakov Smirnoff](https://traffic.megaphone.fm/GLT1399685644.mp3) · 2026-09-23 17:00 UTC
 - **Moonshots with Peter Diamandis** — [Ask the Mates Anything Round #2 | MOONSHOTS AMA #293](https://traffic.megaphone.fm/DVVTS4072450564.mp3) · 2026-09-22 20:00 UTC
-- **The Joe Rogan Experience** — [#2556 - Siddharth Kara](https://traffic.megaphone.fm/GLT6395368742.mp3) · 2026-09-22 17:00 UTC
 - **Moonshots with Peter Diamandis** — [Robinhood's Vlad Tenev on Tokenizing Everything, OpenAI's 6 Misalignment Reports, Figure's Robot Makes Beds | EP #292](https://traffic.megaphone.fm/DVVTS4856020322.mp3) · 2026-09-19 20:00 UTC
 - **Moonshots with Peter Diamandis** — [Frontier Labs Want to Slow Down, OpenAI Delays Its 2026 IPO, Anthropic Flags 5 Bioweapon Cases | EP #291](https://traffic.megaphone.fm/DVVTS8271193232.mp3) · 2026-09-19 19:15 UTC
 
@@ -97,9 +40,9 @@ _Negotiate community-benefit agreements with AI data centers so that part of the
 - [Crispr Therapeutics: Why AI Giant Anthropic's Discovery Has Rocked Gene Editing (CRSP)](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDBOYVVOcVNVVk1hM1JXMHF6YWYxc0hlYi1qMkZRU1c1aTVDbXhSTmRFNHA5LWVMQ1AzQnZNT2k5TWdQVmt3YnhaWWtsTWdNSFpTaG5kMlJHSm9oTEFSa05zeGpyeUpVWXpjWVhoNU5WcmtVSElkcmlNck9HYVhGZExMMW5nZXVsaTFiWi0zTEdBa0VWZThVOU1iLWRMQ3ZXeWE5WTlQbXEzZHYxUmZwaVhtWndQQWgy?oc=5) — Google News: Biotech · _AI, Biotech_
 - [Claude Found a Mysterious CRISPR-Like System—but Anthropic Can't Say What It’s Capable of](https://news.google.com/rss/articles/CBMiugFBVV95cUxObUtoWEd4VFl1SkZYUTc5enEyZHhicXBEZ2J0Q1BDckJjbndiR0ZoUzBtQW9WWWgtV3EtUWxKUmQ1UERuWWRkMUFwd19GZnBXakhTRG5ZUXVoSHdpamxFT1pMb1NMb3BrWFVVc014dlpnV3R4bE0zcU5QSzdoVk9wS2JyMW92VFMtNk1RUmhzTm55Y2ExYVpyTWJ4YU5jNEJVTWVMS0k1ZEhqd0pJS093ejM4cEFOclBvekE?oc=5) — Google News: Biotech · _AI, Biotech_
 - [VA Study Offers Insight into RSV Vaccine Longevity](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1Y2WlhFVkNoTlJHRGpyMWhJR0tVRXlpQ1h0dFB5aFRSRWpPaVZQUGtEMXFmZWU5ODh6T1FsV2o2eFpDbUtxdHFmR0FSSDdpQk80YnhPb2phTzZMdzZmellfT2xacTAxTmllcEJXZGZ6T2xDeFloaXF6OEJGRURMNEY0c1ZtUlowUEFaOXBLR3NXYXNGbDZ4MHhrNA?oc=5) — Google News: Longevity · _Biotech, Longevity_
+- [Sirtuin 6: This under-the-radar protein could be the key to longevity](https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0w2R2lnVXVUb0pkYTFlTTh5UHhFdlFsOFdTakVEejlvZXI3b2V6MlhwN0FRUkVtaFdjYnd1WGNYTWlXTkhxZ0IzQnZWci1OVXRGVDdnc3owTGFZd1J3NE50TFBJRDQ4aE13anRKbkZmSUl5aVh6LW1IcmcybGNrNDBkam9rQU42alU0b252RnB3YS1Y?oc=5) — Google News: Longevity · _Biotech, Longevity_
 - [A Digital Cell Predicts Which Drugs Will Be Most Effective in Deadly Breast Cancer](https://singularityhub.com/2026/09/24/a-digital-cell-predicts-which-drugs-will-be-most-effective-in-deadly-breast-cancer/) — Singularity Hub · _AI, Biotech_
 - [SpaceX INSANE SPEED is more valuable than Rockets](https://www.nextbigfuture.com/2026/09/spacex-insane-speed-is-more-valuable-than-rockets.html) — NextBigFuture · _AI, Energy & Space_
-- [Sirtuin 6: This under-the-radar protein could be the key to longevity](https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0w2R2lnVXVUb0pkYTFlTTh5UHhFdlFsOFdTakVEejlvZXI3b2V6MlhwN0FRUkVtaFdjYnd1WGNYTWlXTkhxZ0IzQnZWci1OVXRGVDdnc3owTGFZd1J3NE50TFBJRDQ4aE13anRKbkZmSUl5aVh6LW1IcmcybGNrNDBkam9rQU42alU0b252RnB3YS1Y?oc=5) — Google News: Longevity · _Biotech, Longevity_
 - [Anthropic to pay Akamai $11.6 billion over seven years in cloud deal](https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/) — TechCrunch AI · _AI_
 - [Proaction boosts sales 60% and saves 75+ hours with Codex](https://openai.com/index/proaction) — OpenAI News · _AI_
 - [Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing](https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/) — TechCrunch AI · _AI_
@@ -127,3 +70,9 @@ _Negotiate community-benefit agreements with AI data centers so that part of the
 - [Ancient meteorites reveal a powerful force that helped build the Solar System](https://www.sciencedaily.com/releases/2026/09/260924020355.htm) — ScienceDaily Tech · _Energy & Space_
 - [Dan Priestly and Lars Lead the Tesla Semi Event](https://www.nextbigfuture.com/2026/09/dan-priestly-and-lars-lead-the-tesla-semi-event.html) — NextBigFuture · _Energy & Space_
 - [Gemini 3.8 Live with Live Avatar gives Google’s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) — The Verge AI · _AI_
+
+<details><summary>Feeds that failed today</summary>
+
+- The Joe Rogan Experience: ('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: invalid block type'))
+
+</details>
