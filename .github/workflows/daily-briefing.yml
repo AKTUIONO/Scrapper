@@ -1,0 +1,40 @@
+name: Daily frontier-tech briefing
+
+on:
+  schedule:
+    - cron: "5 11 * * *"   # 11:05 UTC = 7:05 AM US Eastern (6:05 in winter)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency: daily-briefing
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - name: Scrape and generate ideas
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m scrapper run
+      - name: Commit briefing
+        run: |
+          git config user.name "scrapper-bot"
+          git config user.email "scrapper-bot@users.noreply.github.com"
+          git add briefings data
+          git diff --cached --quiet || git commit -m "Briefing $(date -u +%F)"
+          git push
+      - name: Morning update (GitHub issue, emailed to watchers)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Morning briefing $(date -u +%F)" \
+            --body-file briefings/LATEST.md
