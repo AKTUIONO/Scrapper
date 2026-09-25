@@ -1,5 +1,7 @@
 # Frontier Tech & Impact Briefing — 2026-09-25
 
+> ⚠️ Idea generation failed today: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CfQjyST7CQUdUqWckSij9'}
+
 ## Today in one minute
 
 AI is now doing real science: Claude found a new CRISPR-like gene-editing system, and a 'digital cell' model is choosing breast-cancer drugs per patient. At the same time, the backlash is growing: a Sanders bill would ban superintelligence, frontier labs are talking about slowing down (Moonshots EP #291), and 'rogue agent' attacks and data leaks from AI-built apps are piling up. Meanwhile the physical buildout keeps speeding up (SpaceX adding about 500 MW of AI compute a month, Nscale raising $3.36B), and Moonshots EP #292 covers tokenization and the new 'Trump Accounts' for kids. The opening: whoever connects these capabilities to ordinary families gets both the impact and the trust.
@@ -58,7 +60,10 @@ _Negotiate community-benefit agreements with AI data centers so that part of the
 
 ## Podcasts this week
 
+- **The Joe Rogan Experience** — [#2558 - Tyler Engle](https://traffic.megaphone.fm/GLT7969377226.mp3) · 2026-09-24 17:00 UTC
+- **The Joe Rogan Experience** — [#2557 - Yakov Smirnoff](https://traffic.megaphone.fm/GLT1399685644.mp3) · 2026-09-23 17:00 UTC
 - **Moonshots with Peter Diamandis** — [Ask the Mates Anything Round #2 | MOONSHOTS AMA #293](https://traffic.megaphone.fm/DVVTS4072450564.mp3) · 2026-09-22 20:00 UTC
+- **The Joe Rogan Experience** — [#2556 - Siddharth Kara](https://traffic.megaphone.fm/GLT6395368742.mp3) · 2026-09-22 17:00 UTC
 - **Moonshots with Peter Diamandis** — [Robinhood's Vlad Tenev on Tokenizing Everything, OpenAI's 6 Misalignment Reports, Figure's Robot Makes Beds | EP #292](https://traffic.megaphone.fm/DVVTS4856020322.mp3) · 2026-09-19 20:00 UTC
 - **Moonshots with Peter Diamandis** — [Frontier Labs Want to Slow Down, OpenAI Delays Its 2026 IPO, Anthropic Flags 5 Bioweapon Cases | EP #291](https://traffic.megaphone.fm/DVVTS8271193232.mp3) · 2026-09-19 19:15 UTC
 
@@ -89,8 +94,8 @@ _Negotiate community-benefit agreements with AI data centers so that part of the
 - [Claude AI discovers CRISPR-like gene-editing system: All you need to know](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1lfZXlCOEFPOUZzYkpVMFBUZmdUdE9wR19ZUXpjR19LRkwzOGpia1dEbndGaGhNSVZWUmZZRno4UGZTYlhBU0Y4RUcxYmV2WjktSXQwR2F3Y09qRWo3emJ5Uk5QZUFDVXQ4THJ6c05oVzluRlVFa1VKLXgxWlhsZkFrSE50dUNNdHVzUEluVlVZeHBXVFU1aDZOYjREN1VDYm4xRGduaENTQy1SUVd2VUNtYnMwbEV6UWhzN3ZiVHVHX1FNRzhYaHNJLVF1S0FMOE1TNzZnUFdyUVRjejgxTTB4TDlWZ9IB5gFBVV95cUxPb1lfZXlCOEFPOUZzYkpVMFBUZmdUdE9wR19ZUXpjR19LRkwzOGpia1dEbndGaGhNSVZWUmZZRno4UGZTYlhBU0Y4RUcxYmV2WjktSXQwR2F3Y09qRWo3emJ5Uk5QZUFDVXQ4THJ6c05oVzluRlVFa1VKLXgxWlhsZkFrSE50dUNNdHVzUEluVlVZeHBXVFU1aDZOYjREN1VDYm4xRGduaENTQy1SUVd2VUNtYnMwbEV6UWhzN3ZiVHVHX1FNRzhYaHNJLVF1S0FMOE1TNzZnUFdyUVRjejgxTTB4TDlWZw?oc=5) — Google News: Biotech · _AI, Biotech_
 - [Young organs may not be a fountain of youth for recipients](https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/) — MIT Technology Review · _Biotech, Longevity_
 - [Why biotech is becoming essential to the future of food – and how AI is accelerating the journey](https://news.google.com/rss/articles/CBMiywFBVV95cUxQdzM3ZEo5dFVBbG1qSU5ta2cxNXJQOTdyc3lNMWxMN0g4V2V1OV84M0hzcFhJaVdQNmlCM1EteGR4TUw4R2VXcmxqTHRCU0g4cTdMN0pnZF9nNnEySGxOUFVvaENUNjhNYnM3ZTFBblp6YUYtTnBLVVJHck1lb3JGWFcxSUQxX1NoRkVPb3ZZNzhlVVZCVy1WUWM2MzYtUG1jai1WSHFzaXQ3QmNUYW9kbVluSEo2QnB6MUFVVmJPSmowcDExZkxQY3ZwNA?oc=5) — Google News: Biotech · _AI, Biotech_
-- [Azulene Labs Raises $3.4 Million Pre-Seed Round to Build Physics-Grounded AI Foundation Models for Chemistry](https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU2Z3cjlkRmppNmVOZ2MtVk5qZGY1WUNSZUtDalJIcTBlaVZsajNDZ0cxbzVfNzhkNzNRSDJ4Y1B3MzVhVng3NkJCX240aHpuY2k2cGFTeGpjRkhnWjlRbmhCa19CYUFRbzIzYjJKYVhoMnVUS1FLWmxFaWtKX3UzNGVsTzQ5ek53aXBONFlwaGo3UWQ2T1RlNnh5bDZxbjB3SF9tdEl5UnJUeU5HSmpPeHFGUnZ6WGoxY04wdWtaZTh6bjlUUXpWQVhLUUJHZ3FuUkstbDQwWVktWGvSAeABQVVfeXFMTjNGQUpQVUJXWHM1QlpacmhzaVpOSWNGTHY3TUQwME5SYVhfUTRkcG1wNTZqS2ZDeDliVzhhaHRWelZrVl9nOWZrN3BYM05NNTMxbHBNRW9SeFFNUGk1Tl9ZRWU3QXZVMkxOaS05WHA0SFRoNExGY1k5c0ktSnMtWVJGNDdWN0llZEFuSENuTDJ1djhFZWs1eWd5V3lJRVlqazVvR2RhYmRSalZibG1Na0JJR29wNE03UFdvekpRMmpqaU5JbDhyNkhtQlVScDJpaUFMZWhzYkRTaS1JdS03WEI?oc=5) — Google News: Quantum · _AI, Quantum_
 - [Evaluating Quantum Generative Models on Real Satellite Radar](https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/) — The Quantum Insider · _AI, Quantum_
+- [Egypt AI Council Reviews National AI Strategy Progress, Quantum Computing Plans](https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUtBMmVYeV9LYWJDNmtUcWM4RDZzT2ttTWdGSFN1TG9lQk1YZG96MGtGVVpBZWQwVFhpejVvMVp4cC1tM1dnNTNTZWNXTjh2eE1BSHhlNG9zRU1sWHpxd3FHckY0NGpkTzNrVE5OdmU5T1pua1NwMm9TT0hOZ2NFUWkwQUFXWEd4aWVFc1ctMHZCNTBzRTBOajV3?oc=5) — Google News: Quantum · _AI, Quantum_
 - [Crispr Therapeutics: Why AI Giant Anthropic's Discovery Has Rocked Gene Editing (CRSP)](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDBOYVVOcVNVVk1hM1JXMHF6YWYxc0hlYi1qMkZRU1c1aTVDbXhSTmRFNHA5LWVMQ1AzQnZNT2k5TWdQVmt3YnhaWWtsTWdNSFpTaG5kMlJHSm9oTEFSa05zeGpyeUpVWXpjWVhoNU5WcmtVSElkcmlNck9HYVhGZExMMW5nZXVsaTFiWi0zTEdBa0VWZThVOU1iLWRMQ3ZXeWE5WTlQbXEzZHYxUmZwaVhtWndQQWgy?oc=5) — Google News: Biotech · _AI, Biotech_
 - [Claude Found a Mysterious CRISPR-Like System—but Anthropic Can't Say What It’s Capable of](https://news.google.com/rss/articles/CBMiugFBVV95cUxObUtoWEd4VFl1SkZYUTc5enEyZHhicXBEZ2J0Q1BDckJjbndiR0ZoUzBtQW9WWWgtV3EtUWxKUmQ1UERuWWRkMUFwd19GZnBXakhTRG5ZUXVoSHdpamxFT1pMb1NMb3BrWFVVc014dlpnV3R4bE0zcU5QSzdoVk9wS2JyMW92VFMtNk1RUmhzTm55Y2ExYVpyTWJ4YU5jNEJVTWVMS0k1ZEhqd0pJS093ejM4cEFOclBvekE?oc=5) — Google News: Biotech · _AI, Biotech_
 - [VA Study Offers Insight into RSV Vaccine Longevity](https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1Y2WlhFVkNoTlJHRGpyMWhJR0tVRXlpQ1h0dFB5aFRSRWpPaVZQUGtEMXFmZWU5ODh6T1FsV2o2eFpDbUtxdHFmR0FSSDdpQk80YnhPb2phTzZMdzZmellfT2xacTAxTmllcEJXZGZ6T2xDeFloaXF6OEJGRURMNEY0c1ZtUlowUEFaOXBLR3NXYXNGbDZ4MHhrNA?oc=5) — Google News: Longevity · _Biotech, Longevity_
@@ -124,9 +129,3 @@ _Negotiate community-benefit agreements with AI data centers so that part of the
 - [Ancient meteorites reveal a powerful force that helped build the Solar System](https://www.sciencedaily.com/releases/2026/09/260924020355.htm) — ScienceDaily Tech · _Energy & Space_
 - [Dan Priestly and Lars Lead the Tesla Semi Event](https://www.nextbigfuture.com/2026/09/dan-priestly-and-lars-lead-the-tesla-semi-event.html) — NextBigFuture · _Energy & Space_
 - [Gemini 3.8 Live with Live Avatar gives Google’s AI a face](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face) — The Verge AI · _AI_
-
-<details><summary>Feeds that failed today</summary>
-
-- The Joe Rogan Experience: ('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: invalid block type'))
-
-</details>

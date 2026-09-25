@@ -1,6 +1,28 @@
 {
   "podcasts": [
     {
+      "source": "The Joe Rogan Experience",
+      "title": "#2558 - Tyler Engle",
+      "link": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "published": "2026-09-24 17:00 UTC",
+      "ts": 1790269200,
+      "summary": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Visit https://ketone.com/Rogan for 30% OFF, or find Ketone-IQ at Target nationwide. Use code DRENCHED at https://BlueChew.com to get 10% OFF + Free Overnight Shipping on your first order Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Joe Rogan Experience",
+      "title": "#2557 - Yakov Smirnoff",
+      "link": "https://traffic.megaphone.fm/GLT1399685644.mp3",
+      "published": "2026-09-23 17:00 UTC",
+      "ts": 1790182800,
+      "summary": "Yakov Smirnoff, PhD, is a comedian, actor, visual artist, host of the \"Comedy Couch\" podcast, and owner of the Yakov Theatre in Branson, Missouri. He is currently touring the United States.www.youtube.com/@YakovSmirnoffwww.yakov.com Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Visit https://squarespace.com/ROGAN to save 10% off your first purchase of a website or domain. Try ZipRecruiter FOR FREE at https://ziprecruiter.com/rogan Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "source": "Moonshots with Peter Diamandis",
       "title": "Ask the Mates Anything Round #2 | MOONSHOTS AMA #293",
       "link": "https://traffic.megaphone.fm/DVVTS4072450564.mp3",
@@ -10,6 +32,17 @@
       "topics": [
         "AI",
         "Superintelligence"
+      ]
+    },
+    {
+      "source": "The Joe Rogan Experience",
+      "title": "#2556 - Siddharth Kara",
+      "link": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+      "published": "2026-09-22 17:00 UTC",
+      "ts": 1790096400,
+      "summary": "Siddharth Kara, PhD, is the author of several books, including \"Cobalt Red: How the Blood of the Congo Powers Our Lives,\" and, most recently, \"The Zorg: A Tale of Greed and Murder That Inspired the Abolition of Slavery.\"https://us.macmillan.com/books/9781250348227/thezorg/www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/siddharth-kara/index.aspx Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. 50% off your first box at https://www.thefarmersdog.com/rogan! MANSCAPED®: Get 15% off + free shipping on The Lawn Mower® Ultra Gen 6. Visit https://manscaped.com/joeroganexperience Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -340,24 +373,24 @@
       ]
     },
     {
-      "source": "Google News: Quantum",
-      "title": "Azulene Labs Raises $3.4 Million Pre-Seed Round to Build Physics-Grounded AI Foundation Models for Chemistry",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU2Z3cjlkRmppNmVOZ2MtVk5qZGY1WUNSZUtDalJIcTBlaVZsajNDZ0cxbzVfNzhkNzNRSDJ4Y1B3MzVhVng3NkJCX240aHpuY2k2cGFTeGpjRkhnWjlRbmhCa19CYUFRbzIzYjJKYVhoMnVUS1FLWmxFaWtKX3UzNGVsTzQ5ek53aXBONFlwaGo3UWQ2T1RlNnh5bDZxbjB3SF9tdEl5UnJUeU5HSmpPeHFGUnZ6WGoxY04wdWtaZTh6bjlUUXpWQVhLUUJHZ3FuUkstbDQwWVktWGvSAeABQVVfeXFMTjNGQUpQVUJXWHM1QlpacmhzaVpOSWNGTHY3TUQwME5SYVhfUTRkcG1wNTZqS2ZDeDliVzhhaHRWelZrVl9nOWZrN3BYM05NNTMxbHBNRW9SeFFNUGk1Tl9ZRWU3QXZVMkxOaS05WHA0SFRoNExGY1k5c0ktSnMtWVJGNDdWN0llZEFuSENuTDJ1djhFZWs1eWd5V3lJRVlqazVvR2RhYmRSalZibG1Na0JJR29wNE03UFdvekpRMmpqaU5JbDhyNkhtQlVScDJpaUFMZWhzYkRTaS1JdS03WEI?oc=5",
-      "published": "2026-09-25 08:03 UTC",
-      "ts": 1790323385,
-      "summary": "Azulene Labs Raises $3.4 Million Pre-Seed Round to Build Physics-Grounded AI Foundation Models for Chemistry Quantum Computing Report",
-      "topics": [
-        "AI",
-        "Quantum"
-      ]
-    },
-    {
       "source": "The Quantum Insider",
       "title": "Evaluating Quantum Generative Models on Real Satellite Radar",
       "link": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
       "published": "2026-09-25 07:56 UTC",
       "ts": 1790322995,
       "summary": "Insider Brief PRESS RELEASE — IonQ researchers applied a quantum generative machine learning model to help detect changes in highly complex satellite image data. The results, detailed in a recently published paper, reveal that using quantum-based analysis shows promise for detecting and predicting changes in images where data is too sparse for classical methods to be […]",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Quantum",
+      "title": "Egypt AI Council Reviews National AI Strategy Progress, Quantum Computing Plans",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUtBMmVYeV9LYWJDNmtUcWM4RDZzT2ttTWdGSFN1TG9lQk1YZG96MGtGVVpBZWQwVFhpejVvMVp4cC1tM1dnNTNTZWNXTjh2eE1BSHhlNG9zRU1sWHpxd3FHckY0NGpkTzNrVE5OdmU5T1pua1NwMm9TT0hOZ2NFUWkwQUFXWEd4aWVFc1ctMHZCNTBzRTBOajV3?oc=5",
+      "published": "2026-09-25 07:15 UTC",
+      "ts": 1790320519,
+      "summary": "Egypt AI Council Reviews National AI Strategy Progress, Quantum Computing Plans TechAfrica News",
       "topics": [
         "AI",
         "Quantum"
@@ -474,7 +507,7 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMlVMelJFY0NrUmtaazdESjJ3NDR2UGRLNHo0MjFfOC15anJmalBzUjdrRFdDZmtYdjdua25sblcwd3E3Z3BvcVRkRkFzMGExcnN0cDhOQVl1cXVMd3FYNGVzTUxVT2dKMy1WSk0ySmRtNWFHd2dIdUxJal9fYmRCbjJMZFJqdjVqcy0yVmxuakc?oc=5",
       "published": "2026-09-25 18:30 UTC",
       "ts": 1790361000,
-      "summary": "These Anti-Aging Favorites Tackle Baggy Eyes, ‘Turkey Neck,’ ‘Trenches,’ and More for Less Than the Cost of Lunch Real Simple",
+      "summary": "These Anti-Aging Favorites Tackle Baggy Eyes, ‘Turkey Neck,’ ‘Trenches,’ and More for Less Than the Cost of Lunch realsimple.com",
       "topics": [
         "Longevity"
       ]
@@ -529,7 +562,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZURjTmFuRlhlMUtBcmdLYWpaR2IybjNYRkoxRExIblI1UVdMZTJmekJEakV2elc3ak1xS0dLRVRSdl83WGZiazBwUlhkQklpWElYN3M4c1RhZm1Nbm1QbHJ4Vy0zX3pCcm01NG1pZVdiOUJ2NVA3Nlh1SE4zTFNGR1NBNlhIZmx1Q21QRGFJdjM2REYtdng1UFFaaUI2ekhQQ1RkeVRwQU5DNlp0ZDZGYVRZWEtXRmJsWm9vejB0clFydncyZHllR2ZNNkNpUzhFRUZ3Z0V3?oc=5",
       "published": "2026-09-25 17:05 UTC",
       "ts": 1790355918,
-      "summary": "Grip strength is a predictor of longevity. Here's why this $15 gadget is important for healthy aging Yahoo Lifestyle Canada",
+      "summary": "Grip strength is a predictor of longevity. Here's why this $15 gadget is important for healthy aging ca.style.yahoo.com",
       "topics": [
         "Longevity"
       ]
@@ -733,7 +766,5 @@
       ]
     }
   ],
-  "errors": {
-    "The Joe Rogan Experience": "('Received response with content-encoding: gzip, but failed to decode it.', error('Error -3 while decompressing data: invalid block type'))"
-  }
+  "errors": {}
 }
