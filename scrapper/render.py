@@ -1,8 +1,10 @@
 """Render the digest + ideas as a Markdown morning briefing."""
 
 
-def render(date, digest, briefing=None):
+def render(date, digest, briefing=None, note=None):
     out = [f"# Frontier Tech & Impact Briefing — {date}", ""]
+    if note:
+        out += [f"> ⚠️ {note}", ""]
     if briefing:
         out += ["## Today in one minute", "", briefing["headline_summary"], ""]
         out += ["## Top signals", ""] + [f"- {s}" for s in briefing["top_signals"]] + [""]

@@ -49,13 +49,19 @@ def main():
         sys.exit(f"No digest for {args.date}; run collect first")
 
     history = _load(HISTORY, [])
+    note = None
     briefing = _load(ideas_path, None)
     if (briefing is None or args.force) and args.command == "run":
         if os.environ.get("ANTHROPIC_API_KEY"):
             print("ANTHROPIC_API_KEY found; generating ideas with Claude")
-            briefing = ideas.generate(digest, history, args.ideas)
-            _write(ideas_path, briefing)
-            print(f"Generated {len(briefing['ideas'])} ideas")
+            try:
+                briefing = ideas.generate(digest, history, args.ideas)
+            except Exception as exc:  # still deliver the news digest
+                note = f"Idea generation failed today: {exc}"
+                print(f"::error::{note}")
+            else:
+                _write(ideas_path, briefing)
+                print(f"Generated {len(briefing['ideas'])} ideas")
         else:
             print("::warning::ANTHROPIC_API_KEY not set; skipping idea generation")
     if briefing:
@@ -63,7 +69,7 @@ def main():
         _write(HISTORY, history + new)
 
     out = ROOT / "briefings" / f"{args.date}.md"
-    out.write_text(render.render(args.date, digest, briefing))
+    out.write_text(render.render(args.date, digest, briefing, note))
     (ROOT / "briefings" / "LATEST.md").write_text(out.read_text())
     print(f"Wrote {out.relative_to(ROOT)}")
 

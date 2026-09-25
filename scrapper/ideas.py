@@ -52,6 +52,8 @@ def _signals_text(digest):
 
 
 def generate(digest, history, n_ideas=3):
+    import os
+
     import anthropic
 
     past = "\n".join(f"- {t}" for t in history[-150:]) or "(none yet)"
@@ -62,7 +64,8 @@ def generate(digest, history, n_ideas=3):
         f"(one line each, name the source), and exactly {n_ideas} ideas. In each idea's "
         f"sources list the URLs of the signals it builds on."
     )
-    client = anthropic.Anthropic()
+    # Strip stray whitespace/newlines that often sneak in when pasting the secret.
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"].strip())
     response = client.messages.parse(
         model=MODEL,
         max_tokens=16000,
