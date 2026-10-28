@@ -1,0 +1,739 @@
+{
+  "podcasts": [
+    {
+      "source": "Moonshots with Peter Diamandis",
+      "title": "SpaceX’s AI Business Up 830%, OpenAI Agents Lie, and Startup Turns Mercury Into Gold | EP #305",
+      "link": "https://traffic.megaphone.fm/DVVTS2164439111.mp3",
+      "published": "2026-10-23 20:00 UTC",
+      "ts": 1792785600,
+      "summary": "The mates sit down to discuss SpaceX’s expanding ambitions in artificial intelligence, including Elon Musk’s reported $100 billion AI bet and speculation surrounding a potential SpaceX-Tesla merger. They also explore Anthropic’s Claude Duet, concerns over AI agents engaging in deceptive behavior, Trump’s proposed data center dividend, and a major PHP security flaw affecting much of the web. Plus, a startup’s ambitious attempt to turn mercury into gold and what it could mean for the future of technology and innovation. Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Peter H. Diamandis, MD, is the Founder of XPRIZE, Singularity University, ZeroG, and A360 Salim Ismail is the founder of Open ExO, a GP at Exponential Venture Capital/The Organizational Singularity Fund and a sought after global speaker and thought leader. Dave Blundin is the founder & GP of Link Ventures Dr. Alexander Wissner-Gross is a computer scientist and founder of Reified – This episode is brought to you by: Get the blueprint for generative media https://goo.gle/startupgenmedia Go to Blitzy to book a free demo and start building today: https://qr.diamandis.com/blitzy Your body is incredibly good at hiding disease. Schedule a call with Fountain Life to add healthy decades to your life, and to learn more about their Memberships: https://www.fountainlife.com/peter _ Connect with Peter: X Instagram Substack Website Xprize A360 Connect with Dave: Web X LinkedIn Instagra…",
+      "topics": [
+        "AI",
+        "Superintelligence",
+        "Energy & Space"
+      ]
+    },
+    {
+      "source": "The Joe Rogan Experience",
+      "title": "#2570 - Mystery Boys",
+      "link": "https://traffic.megaphone.fm/GLT2538626371.mp3",
+      "published": "2026-10-23 17:00 UTC",
+      "ts": 1792774800,
+      "summary": "Kurt Metzger and Duncan Trussell are comedians and co-hosts of the \"Mystery Boys\" podcast. They also host their respective podcasts, \"The Derp with Kurp\" and \"The Duncan Trussell Family Hour.\"www.ymhstudios.com/mystery-boys-podcast/www.youtube.com/@duncantrussellfamilyhourwww.duncantrussell.comwww.youtube.com/@kurtmetzgercomedywww.kurtmetzgercomedy.com Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Get a free welcome kit with your first subscription of AG1 at https://drinkag1.com/joerogan Use code JRE for 20% off your membership Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Joe Rogan Experience",
+      "title": "JRE MMA Show #187 with Robert Whittaker",
+      "link": "https://traffic.megaphone.fm/GLT1470402625.mp3",
+      "published": "2026-10-22 17:00 UTC",
+      "ts": 1792688400,
+      "summary": "Joe sits down with Robert Whittaker, a professional mixed martial artist currently competing in the UFC's light heavyweight division and host of the \"MMArcade\" podcast.www.ascendfitnessbyrob.com/www.musashi.com/pages/reaper-rangewww.patreon.com/cw/MMArcadePodcastwww.youtube.com/@MMArcadePodcastwww.robwhittaker.co Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. Don’t miss out on all the action this week at DraftKings! Download the DraftKings app today! Sign-up using https://dkng.co/rogan or through my promo code ROGAN. Sign up at https://Foxnation.com/RAF to stream RAF 14 LIVE on October 23 at 9p EST Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "Moonshots with Peter Diamandis",
+      "title": "Chamath: AGI Is Here, Anthropic’s $100B Giveaway, Elon’s SpaceX Shares for 72M Kids | EP #304",
+      "link": "https://traffic.megaphone.fm/DVVTS7398139491.mp3",
+      "published": "2026-10-21 20:00 UTC",
+      "ts": 1792612800,
+      "summary": "The mates sit down with Chamath Palihapitiya to discuss why AGI may already be here, the massive compute shortage limiting AI adoption, Chamath’s 6GW power bet, Anthropic’s $100 billion giveaway, the future of Bitcoin, and how robotics and Elon Musk’s vision for a post-money economy could reshape the global economy. Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends Peter H. Diamandis, MD, is the Founder of XPRIZE, Singularity University, ZeroG, and A360 Salim Ismail is the founder of Open ExO, a GP at Exponential Venture Capital/The Organizational Singularity Fund and a sought after global speaker and thought leader. Dave Blundin is the founder & GP of Link Ventures Dr. Alexander Wissner-Gross is a computer scientist and founder of Reified Chamath Palihapitiya is a venture capitalist, entrepreneur, founder and CEO of Social Capital, and co-host of the All-In Podcast. – This episode is brought to you by: Get the blueprint for generative media https://goo.gle/startupgenmedia Go to Blitzy to book a free demo and start building today: https://qr.diamandis.com/blitzy Your body is incredibly good at hiding disease. Schedule a call with Fountain Life to add healthy decades to your life, and to learn more about their Memberships: https://www.fountainlife.com/peter _ Connect with Peter: X Instagram Substack Website Xprize A360 Connect with Dave: Web X LinkedIn Instagram TikTok Connect with Salim: LinkedIn X Join Salim’s 10X Shift Subscribe to …",
+      "topics": [
+        "AI",
+        "Superintelligence",
+        "Energy & Space"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "source": "Google News: Quantum",
+      "title": "Exclusive / Quantum computing company’s first breakthrough is in AI data centers",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcW5tMVlHTlNDOUkxOFA3em9oczRoMHlHSVFJZXFSZkNvQURoYkV4N0FONkJCbUVwTkh0U2lGVGhQNWpYN1VpVXhFS3lKZTVhcDBrUDh0b2JJWXQyZFBGRkRYRE1tR19VMk8yeG1rYWpSaFE3YTFsWmNyZzZlQm1lNHREelVLUnBpX0lVV2V5SXJyZFlEYWxnUHphUWZxV0xERzlyMGs2TlZESUE1WkVj?oc=5",
+      "published": "2026-10-28 16:26 UTC",
+      "ts": 1793204760,
+      "summary": "Exclusive / Quantum computing company’s first breakthrough is in AI data centers Semafor",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Biotech",
+      "title": "Portland biotech startup lands $1.2 million grant, aims to make protein research faster, cheaper using AI",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOakZ1WXpHVkg5cHU1cjkyd012TUk4akkydjN0ekhfLThOUlVXZjBQOEVrajhUSkNVcnI3NGpDLWF3ZFhTZ3ppaENFUWlHblZDdnVncmI2UEtyVEZFVFdZNVBrdXY2VVlMR3lUNG5aaXNCU1Q2YW9hZHBWSjlKeW1hMTlva1UzNEZybU9aOE5Nb25DYXNaWENQRUxzQWtIQnlzOHFaY0tkLXJJei1ZdTNqZk1xTlJHSGpZSFVlOS1HbWlxdFBDb0xDUWEyQmQwekFOdUwza1hMQTFEbHVEd3RKVDRaMVrSAfgBQVVfeXFMTVRDcmRlZ2p0bUpQMFdvbXRfbzdjVWFuOXFsZlVoZS16R1VYNDlTRzk2NHJZUzZteWVzUWVjVVlRWnZHdm9TVUQtTVY0WXpKeDFLWmVLVjhPTVRrSjVCYVVfWGFDNkhMVlI4UWdmdnNESXBlQ3lkc01sYlJtQVZPZlh4S2QxME5iWDhtN2wxMHFZWlNSUDRrcGVoRUxyaVM5cUJWeF9hRzFqRXBsOXhjSnVSMEhjNW05bGZaMVdTRFEzeVpucWVOY1ZFQmUwZ3NrbVprUWpDRjZTU2hZZk80blhGSFlYN1BJV1ZDUGNzMDdFbkdNRktoUW8?oc=5",
+      "published": "2026-10-28 16:00 UTC",
+      "ts": 1793203200,
+      "summary": "Portland biotech startup lands $1.2 million grant, aims to make protein research faster, cheaper using AI OregonLive.com",
+      "topics": [
+        "AI",
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: Quantum",
+      "title": "HPE's Quantum Computing Bet: A Multi-Vendor Path to the Data Center",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGVrR0JWVVFIbTNwY0lEQWczNk53OGlTYThMRE9kTHdFNXp4SHo4YXhSNnJyQUk3YzNCQ3FLakNNRmZlZkhhc1N5b09xU3JNMUN6RThkUzBRa1JhQ2ZNalNERWtQaUxIRGg5Zm1NbFpNMEU5YVJnbmN5cUd6d3B0N29hMko0ektFWWFQTjhDRVJKZl9TVVhxai1WNGc1ZFRsaHBZSmFwdFNUNkR6MnFoX1UtRGpKR2J0U1l1RnBySmtSNWFvWFFj?oc=5",
+      "published": "2026-10-28 15:08 UTC",
+      "ts": 1793200087,
+      "summary": "HPE's Quantum Computing Bet: A Multi-Vendor Path to the Data Center Data Center Frontier",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Quantum",
+      "title": "FRED: Super vs Quantum Computing & About the data center debacle",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0h2UlhGTVo4aVEzMWVMNDFmVFE1RWJkSTVzV18tMjNKQUYteGNtV193SmxtYU5SUFdFWGNJb1BpdlhCTHlhMDBmUXNPNzFPazU1cVFUZnhhMktfTTNnNGF1VEY0bmQyZENrUzI3RkQwRmZzU0JmSmRFTERmblJSTzB6RGNDbncxRTU5czlPQ09uQVM4VlZtZEtoM1hDTDZ6eG1VbGM2VQ?oc=5",
+      "published": "2026-10-28 14:22 UTC",
+      "ts": 1793197347,
+      "summary": "FRED: Super vs Quantum Computing & About the data center debacle the wellsville sun",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "The Quantum Insider",
+      "title": "D-Wave and LG CNS Partner on Quantum Optimization in South Korea",
+      "link": "https://thequantuminsider.com/2026/10/28/dwave-lg-cns-quantum-optimization-south-korea/",
+      "published": "2026-10-28 13:21 UTC",
+      "ts": 1793193699,
+      "summary": "Insider Brief PRESS RELEASE — D-Wave Quantum Inc. (NASDAQ: QBTS) (“D-Wave” or the “Company”), the only dual-platform quantum computing company providing both annealing and gate-model systems, software and services, and LG CNS Co., Ltd. (“LG CNS”), a leading AI transformation company in South Korea, today announced that the companies have signed a non-binding memorandum of […]",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "The Quantum Insider",
+      "title": "Guest Post: Why Dedicated Compute Matters for AI and Quantum Computing",
+      "link": "https://thequantuminsider.com/2026/10/28/dedicated-compute-ai-quantum-computing/",
+      "published": "2026-10-28 13:08 UTC",
+      "ts": 1793192906,
+      "summary": "Guest Post By Christopher Miglino, CEO, Axe Compute Every dollar going into AI infrastructure today is also a bet on what comes after it. Compute has become a strategic resource. Companies are spending billions to secure the processing power to build, train and run AI, and we’re still early: much of the global economy hasn’t […]",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Biotech",
+      "title": "This New $600 Million Fund Will Supercharge Stalled Drugs With AI",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTc5UHg5M05vM0RjY3F3TWxibUZfdDZrUFBwTi1SZGlCNU13d3YyN3czcndiOTZGZXRRWmptems4RkZRVFB2ZGpyNGx4eHdRUTZtSFUtOXAtWkNUblJlbWMtbnVPR3JIRWt4WFkwVG4zc1pGWDJ5SHZOaDN0cXlvYUJTZ1o1RmxmYUdNMU82S056TFlrVjdrSHFnRlBCRlk0d0tFZEMxLUVSdExfVWNLWGlaR3ZPY25tMXZFVWhyVF9ibnlnanBv?oc=5",
+      "published": "2026-10-28 13:00 UTC",
+      "ts": 1793192400,
+      "summary": "This New $600 Million Fund Will Supercharge Stalled Drugs With AI Forbes",
+      "topics": [
+        "AI",
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: Biotech",
+      "title": "Anthropic acquires one-person biotech Mithril, starts drug programs",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XY3FHSmo5aHdLVjQ1dTVYdUx5Vm5BYmJJX3JjVnNuZDgwRHN1T28zUTlqQ2w0VHJMU3pDblIzV2QzVmh1NnJrWjc5di1QVnhQaXFaNzMySDAzXzF6MWZleGtSU1drVUwtM2hiZmRmdTk3SG5Ea3F1UlBXOFJNWlU?oc=5",
+      "published": "2026-10-28 12:50 UTC",
+      "ts": 1793191839,
+      "summary": "Anthropic acquires one-person biotech Mithril, starts drug programs Quartz",
+      "topics": [
+        "AI",
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: Quantum",
+      "title": "Pasqal Launches AI Workflow for Cloud Quantum Experiments",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkNzdlV4cXBEZTdON1otQnJpSlF0czhiRzdFdnh2Z0JOaGI4RHFTME8ybnhyZDhVWFZaNm94cGwwaUFPUUd3Z0ZoeUo1QkNnNlNzOXFTZkFlU3FqWnFxVGtoR0p6ZnI1Y2VFUVRtdWVIMmRiQ1hweG5xOG5FeDdZTzZUUkh1Z0VScmJOWjBZTQ?oc=5",
+      "published": "2026-10-28 12:21 UTC",
+      "ts": 1793190103,
+      "summary": "Pasqal Launches AI Workflow for Cloud Quantum Experiments The Quantum Insider",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Biotech",
+      "title": "Anthropic buys a one-person biotech and starts its own drug programmes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFRkbmsxLTJBU1FBLUMxM2lsa0F6N1Y2eVgyeWlHanVlQVhrVURqSjFGYVVSZVdQVFhzd2xwcXZQZHloYmpuZHdqOWZJZVdoRTZwNllMVDBwdXM4czNhdWFmSHBEQmEwZVFGd2hKNWc0ZWViVWhsSHpUZk9JZGI4OGpCR3pnTmtG?oc=5",
+      "published": "2026-10-28 11:44 UTC",
+      "ts": 1793187855,
+      "summary": "Anthropic buys a one-person biotech and starts its own drug programmes The Next Web",
+      "topics": [
+        "AI",
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: Biotech",
+      "title": "Dallas biotech firm uses AI to advance dodo revival effort",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMnUtcmZyM0Vpdi1wTy1MblhPNEJxdUQ4RmNkV2hQZUdDb2hwNUYwdC1Bdk9LMzZ4UzNWaXZJa2VxbnBrdlpxX2VCOFo3S0l2b3BhbkJHVjJETmFBcXJFcU45b3VoNlJjZ0NZT0RYWGVTeUNmQW9DTF8yanYtdWpCck9lY2NhS0RXN3VGWXBOYmlyM3lQRG1kbHNsVFUxZw?oc=5",
+      "published": "2026-10-28 11:03 UTC",
+      "ts": 1793185380,
+      "summary": "Dallas biotech firm uses AI to advance dodo revival effort Audacy",
+      "topics": [
+        "AI",
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: AI",
+      "title": "Meta plans $95bn fund raise for AI infrastructure and personal superintelligence",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLaVVpRVUwOTN6LUEzTDNidkFfQzdUYWFpRFA2dVFZUS11T3FOVXhTR1BPMG0wdmtaVUw1RERuV3dxcnlaVlRSc0RLNC1pMGhBR2h2cDRtTGdNSUd2ZjhCM05wSkJtQ3JhakFITldxQTh1ekhxOS1WNzllZ3U?oc=5",
+      "published": "2026-10-28 10:44 UTC",
+      "ts": 1793184268,
+      "summary": "Meta plans $95bn fund raise for AI infrastructure and personal superintelligence Yahoo Finance",
+      "topics": [
+        "AI",
+        "Superintelligence"
+      ]
+    },
+    {
+      "source": "Google News: AI",
+      "title": "'Superintelligence' instead? Trump to ban term 'AI' in official docs",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY1YyZVNFcFB4ZDNBUHRUcmp0ZktFdzF4czJQUGZfTnRnaHlxWXoyMWNEUHFrT0tQaTJOM3NOQXk4VHZsdjFpWFlYNlJNSndMV3VMajZZYllRMjJIaG9JaUZxcnNydlFqYS1Ldl9CUVR3OHZJZG5VSFdIeXZXVHNZcDhWWmNwZk9kTWxVWGdsV3NkY2x2N2tzN1psZ3Z6NEZOX0E?oc=5",
+      "published": "2026-10-28 10:33 UTC",
+      "ts": 1793183636,
+      "summary": "'Superintelligence' instead? Trump to ban term 'AI' in official docs Yahoo",
+      "topics": [
+        "AI",
+        "Superintelligence"
+      ]
+    },
+    {
+      "source": "Google News: Quantum",
+      "title": "1Finity and more to link quantum computing and optical networks for AI optimization",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeE5IZTlNRHh4UGVkQWNxa3k3U1pNVUlvSGV1VUJDYmdacU5hQ25LOEpaUVNpN21sMXNrdzdrdXpEamh1ZGU1QmdUVDIwRWVLdlBJclR3b1lISkhKTm5hUlhvcnMyTmh3QW9WYTMzVWMxTEhJdnNSTlFiYkRxNjlKclBLNHVHNExDNkdhY3d2N3Q5Z2ZUd3hKdFBtZ29GQnVkNG5VbjU1Sm1VZ2JYbkpnQW1VdGFwTHc?oc=5",
+      "published": "2026-10-28 10:12 UTC",
+      "ts": 1793182377,
+      "summary": "1Finity and more to link quantum computing and optical networks for AI optimization SDxCentral",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Biotech",
+      "title": "AI-Designed Gene Editing Creates Rice Plants Resistant to Bacterial Blight",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYno1bXhsYWxJRmx4MjBqUS1fQlRBdk1fcENCLTNjUnJ4ZUJiUzluSnc1VXVqeTNmUEJxM2k3UTFHd01vQWlDS3FnN3FZeGhmWnNrVG5MOVluUFUtOElOdjBXZEQ0ajRlbC1iV3VBSld2UEE3VjV0OXFSbnJULUJhSg?oc=5",
+      "published": "2026-10-28 10:05 UTC",
+      "ts": 1793181908,
+      "summary": "AI-Designed Gene Editing Creates Rice Plants Resistant to Bacterial Blight ISAAA.org",
+      "topics": [
+        "AI",
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: Longevity",
+      "title": "Engineered Albumin Improves Longevity and Delivery of Protein-Based Therapeutics",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYm1HY1h0WDBCQnNZSTNfMzZ5RDB1c1hrb2FiZ3BBQ1U4ME5NeUdiQUtma1lLNVlVcXZvWmtXdGlEZHk0dmlpdVBpNmpldDQ4c2xSUVg3RDMyZU9vaC1jMHdSOUdhM3pMSm5LbDV2cHhGOVV2eEtjcGNuZkdtLWpETUV3OHJmMEdLR1V6VUNiTE9paVlGaF9fVlZaSlUyUFNmNllqTTFzMWdUNTVwRV9UUHZKMzI4dXNncC1HU1AzOGtOT1RpTFM1QlozR3lfUk1QMHNLNmwyVHo0NEg1YXB0ZA?oc=5",
+      "published": "2026-10-28 10:00 UTC",
+      "ts": 1793181632,
+      "summary": "Engineered Albumin Improves Longevity and Delivery of Protein-Based Therapeutics Inside Precision Medicine",
+      "topics": [
+        "Biotech",
+        "Longevity"
+      ]
+    },
+    {
+      "source": "Google News: AI",
+      "title": "Donald Trump wants to ban the term “artificial intelligence” and impose “superintelligence”",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzNQMVlBNTBpVjlPNFZJODlUb3RvRmxaZllBeXJUVHJ4VFNxbGItdnZxbjNNT3lkYUhLY2VGeV9qY3V5eXJvWVk0VXFFcW5FNzFSTVB5c0dXZWRZc1B0TTdaaEdxWV9femVaRXFadURYSGFkN0g4MENELWY3bldqeU45NjVJbGo0VFJRMFE1blU5QnFNY3JlWTlGWQ?oc=5",
+      "published": "2026-10-28 06:07 UTC",
+      "ts": 1793167629,
+      "summary": "Donald Trump wants to ban the term “artificial intelligence” and impose “superintelligence” Informat.ro",
+      "topics": [
+        "AI",
+        "Superintelligence"
+      ]
+    },
+    {
+      "source": "Google News: Quantum",
+      "title": "Six Japanese companies to develop quantum computing and AI materials platform",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGRxMEN0Wk5rWmd0bnFhUGxoNGUtRnBkUTlwZ1hRTElyMDlabHFRRFRidWcxc2ttLWwxT2NBaHlTaHlGOS0zN0F5SVVIRFZqSTZBUkR6T1JlS3RqQXNrZUk3LU5nQ3QxanA0alB1b0pEMHZISkp6bXRxcjVIOG42emE5R01mTHBMV0VyN3lXaXRSbGhGczU0QjFmejVQTUgxMjlYengzN0RvcDJKaWE3YXV1d2hQRVphRDNaeg?oc=5",
+      "published": "2026-10-28 05:22 UTC",
+      "ts": 1793164945,
+      "summary": "Six Japanese companies to develop quantum computing and AI materials platform Telecompaper",
+      "topics": [
+        "AI",
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Google News: Longevity",
+      "title": "Longevity BioTech Market Outlook 2030: Market Size, CAGR, Trends And Forecast Analysis",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2RUTWZzMVJYOVRvNHF2VDBZUTJYQmtBV1E4YnN5elJhTm5vdmdzX3lGbUFSVkVFS05xdENuaHN1MFJSeVdXX1FINlhheVlSMUIyMnhRWkFadUhDM2RtRXNfZkhqQUM2bjYxVjVLcmdIRm1kQ1FlZFRFRlFOMEpFSi0xRUt4RHZNa2VwaVo5bUNFVkZmQWZheERpVm4zbmZocXRmNGJaSkQ2SGM5djQ1LW9nWXE?oc=5",
+      "published": "2026-10-28 02:01 UTC",
+      "ts": 1793152912,
+      "summary": "Longevity BioTech Market Outlook 2030: Market Size, CAGR, Trends And Forecast Analysis The National Law Review",
+      "topics": [
+        "Biotech",
+        "Longevity"
+      ]
+    },
+    {
+      "source": "Google News: AI",
+      "title": "Trump Announces Ban on Term \"Artificial Intelligence,\" Pushes \"Superintelligence\" as New Name",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZLXVjZUhXTGtfSFZueFBQb3lDMDNtRldpZ0ExVkVnbzZxd1lFN29IdEE5Z0hBWnZORzMwbHFza2p3VWx1UnhfUER2VkhPaUt1MEpuYXVvUnF2X1ctT1I5RUIyVGNtZUVfRTBIRUdCN1I2Nmh6ZXc?oc=5",
+      "published": "2026-10-27 23:55 UTC",
+      "ts": 1793145300,
+      "summary": "Trump Announces Ban on Term \"Artificial Intelligence,\" Pushes \"Superintelligence\" as New Name BigGo Finance",
+      "topics": [
+        "AI",
+        "Superintelligence"
+      ]
+    },
+    {
+      "source": "Lifespan.io",
+      "title": "ARDD 2026: Traditional Biology to AI-Driven Breakthroughs",
+      "link": "https://lifespan.io/ardd-2026-traditional-biology-to-ai-driven-breakthroughs/",
+      "published": "2026-10-27 19:04 UTC",
+      "ts": 1793127859,
+      "summary": "One of the oldest and biggest longevity conferences moved this year across the Atlantic, from Copenhagen to Boston. The new location […]",
+      "topics": [
+        "AI",
+        "Longevity"
+      ]
+    },
+    {
+      "source": "Google News: Longevity",
+      "title": "Is Aging Written in Your Genes? RoC's New Skin Longevity Study Measures the Effects of Clinical Retinol on Identical Twins",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZnAzcDk1aWFXRkl5TnZRenloX1JtOUVWRTRhS04ycV9QbzIyRGNwelNiQ3A4eUZxYTBjOHBBM1ZqNmxTejFoeHFnZENrQjR3Q3c2b1Zsa2tFRm1xYk9vdkd0ZmxmVGRzUldrQ09aTHpkcVJZWG11Y0tVaFY4elNkRjVING5Rd093YUtIandYcWpYZlNFVUNpRnY5YXkwbjgzcHF3dHRJWkEtbTFyd2llZjI0Qmp0SUxRN3RQMkNuX3Nka3Vrc1FRLVdqRE85emo1V2kxX1VmbmFkbEo1STh1YUVtQXR0a3pERVlkS3pjUGN2YmhMd3hELWo2VDgtVnNfOWtQc1l3YzNmTFk?oc=5",
+      "published": "2026-10-27 18:58 UTC",
+      "ts": 1793127509,
+      "summary": "Is Aging Written in Your Genes? RoC's New Skin Longevity Study Measures the Effects of Clinical Retinol on Identical Twins StreetInsider",
+      "topics": [
+        "Biotech",
+        "Longevity"
+      ]
+    },
+    {
+      "source": "Google News: Longevity",
+      "title": "Liz Parrish Releases How I Became a GMO and Why You Will Too, a Firsthand Account of Gene Therapy, Aging, and the Future of Human Longevity",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOY1lNZi1qclVyWGVia1RveWdqWUVnanhCNHJ5TUk0XzRCTWNTOU1sNzNjVFZ3QUxYLTU2LU9YdEpkMHpIOFZhQTFOUVRydmtxeDF6ODhocDFHVzZ3U1A1UVF2bW1PeERTRWtTbHJMa195aG1KcDlfWE40Ymd0TVcxdEN5QVZhdzZ5eWc3U0U5OHVzRXZabHJSc3N1R3ozbzF2Y3A3Z3ozVjQyN1VsaHVwTGxTWmpOdWxCdHI2aUxXZGI3ODFRTmk4QklKa2xRYTZQYWxYbWNaSERiZllkWUZuRUI1RjFEX3dHVlM2LXdlT3BPZ3o0N3FyVVNBdzNTV3FxUG9ET0JvRDQ2dXNYUWlvdmZyRFBUdXExcDZlSQ?oc=5",
+      "published": "2026-10-27 17:22 UTC",
+      "ts": 1793121720,
+      "summary": "Liz Parrish Releases How I Became a GMO and Why You Will Too, a Firsthand Account of Gene Therapy, Aging, and the Future of Human Longevity PR Newswire",
+      "topics": [
+        "Biotech",
+        "Longevity"
+      ]
+    },
+    {
+      "source": "Lifespan.io",
+      "title": "Life Biosciences Announces First-in-Human Phase 1 Trial Data",
+      "link": "https://lifespan.io/life-biosciences-announces-first-in-human-phase-1-trial-data/",
+      "published": "2026-10-27 15:07 UTC",
+      "ts": 1793113625,
+      "summary": "Life Biosciences (“Life Bio”), a biotechnology company pioneering cellular rejuvenation medicines to reverse diseases of aging, announced interim data from its Phase 1 clinical trial of ER-100 in three participants with open angle glaucoma (OAG). The […]",
+      "topics": [
+        "Biotech",
+        "Longevity"
+      ]
+    },
+    {
+      "source": "Google News: AI",
+      "title": "Google accuses Britain of trying to impose illegal measures to promote competing artificial intelligence services",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdUVxbDhMdEVWTmxDMlRQUXpkajlTbVQzLVBndTFVYmpfMTZTcnFNUkZkQm00YjRGN1ItT0w2YXJCWUZyLUJoSEs1dFpFYjNDWmdZc1lwQ2dWc1dVR2p0X3hYTGlBOWlmeFcxOHg2MTJZaElrdGZaU3lNU0JWOWx2RDBtMFdMSDJFM1dyOXpidm9QT3F4X1FhQ1FRS2JzTjhkamRNY3R4LVdpTFhuM3NGUDA4eUZKdWh0UV9hdXlwREhVWElISDQ4cGtFOG04ZjVrWDNzanpDdUtXZlVHMUlNb0VQWUZmbVpzc083clNUamU2b3dSUkk4cQ?oc=5",
+      "published": "2026-10-28 17:02 UTC",
+      "ts": 1793206979,
+      "summary": "Google accuses Britain of trying to impose illegal measures to promote competing artificial intelligence services صوت الإمارات",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "Google News: Longevity",
+      "title": "The Carry Partners With Sports Scientist Roma van der Walt to Launch The Carry Method for Women's Longevity",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOd0ZkUjZfTklmcFR4VXlGSjhEc0FhQTI2dERWZzFRYlhUVHVBdS1jREtHbElkd2l3MUVkS3RFVXpMb0xQRjltSURVNWNtcWdFRElMMzhqT3RKRXpjMHNhNjhNeUU1dldBSzJWRkJSYnlZN0E2RkdWZkFudFREYmdXZEx3SzZpS0JYSnRyajY5M1RCREJLZFJXdGVCSWRVUDY0UWM3cXBxY0dRRUVLTzRiQThQNmdfZ3FMclBKZVdsNk5ldk1lZkVZc0ZSSGNreWNpdVdQczMyM3BfR2MzNFFpbjVXckJiVjBpY01uNUN6enB1SGN0NEVXUVF4Unc?oc=5",
+      "published": "2026-10-28 17:00 UTC",
+      "ts": 1793206820,
+      "summary": "The Carry Partners With Sports Scientist Roma van der Walt to Launch The Carry Method for Women's Longevity The Des Moines Register",
+      "topics": [
+        "Longevity"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "published": "2026-10-28 17:00 UTC",
+      "ts": 1793206800,
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "published": "2026-10-28 17:00 UTC",
+      "ts": 1793206800,
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Quantum Insider",
+      "title": "PsiQuantum Unveils Optical Circuit Switch for AI Data Centers",
+      "link": "https://thequantuminsider.com/2026/10/28/psiquantum-optical-circuit-switch-ai-data-centers/",
+      "published": "2026-10-28 16:26 UTC",
+      "ts": 1793204796,
+      "summary": "Insider Brief PRESS RELEASE — PsiQuantum today unveiled its Optical Circuit Switching (OCS) technology, demonstrating how the company’s advanced, low-loss silicon photonics platform can be applied to some of the most significant scaling challenges facing AI infrastructure. AI systems are scaling faster than computing infrastructure, with increasingly large pools of compute placing enormous demands on […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "Google News: AI",
+      "title": "Artificial Intelligence Stocks To Research - October 28th",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTMzNDhpVFhwZEpZLVd1SHZrbnpvNFY4SURZcTVxcXNCR3k1bml5S0Z2cG9sMzhwVlRHRHo1ako1LUtDTHJJbWRTRHFwUXpkbTJGNXRndXN1Z3E2TTV1NEhHYW9HUmZSREZvdnJmOUlZLWRGNG1sVHBqU1J2dGNQQUJIOFZIWTJBWFUyQmpJU0tGU0dEVlprOC1NaVdDMExjZ0VOMm9VVjl1UE85d1dMRTF5TDc?oc=5",
+      "published": "2026-10-28 16:16 UTC",
+      "ts": 1793204173,
+      "summary": "Artificial Intelligence Stocks To Research - October 28th MarketBeat",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta says it’ll probably delay its controversial new business terms again",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "published": "2026-10-28 16:15 UTC",
+      "ts": 1793204130,
+      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Quantum Insider",
+      "title": "NVision and HyperLight Partner to Develop Photonic Quantum Chips",
+      "link": "https://thequantuminsider.com/2026/10/28/nvision-nature-molecular-qubits-hyperlight/",
+      "published": "2026-10-28 16:05 UTC",
+      "ts": 1793203500,
+      "summary": "Insider Brief PRESS RELEASE — NVision, a quantum technology company, announced the publication of landmark peer-reviewed research in Nature and a strategic partnership with HyperLight Corporation (“HyperLight”), an industry leader in thin-film lithium niobate (TFLN) photonics. The companies will integrate NVision’s thin-film molecular qubits directly onto advanced photonic integrated circuits (PICs). Together, these milestones establish […]",
+      "topics": [
+        "Quantum"
+      ]
+    },
+    {
+      "source": "Quanta Magazine",
+      "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+      "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "published": "2026-10-28 16:04 UTC",
+      "ts": 1793203458,
+      "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
+      "topics": [
+        "Biotech"
+      ]
+    },
+    {
+      "source": "Google News: Longevity",
+      "title": "The Future of Skin Longevity Is Here: Shaklee® Unveils YOUTH® Exosome Bio-Signal Serum",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY3ppYjFfakdDcjM1OS1kV2FiNFAwNWFnTncwM1NMX0s2RE9BdHpmbkw0TkFfMVpXMm9QNW1FYVh2bHNtd0k5Z1hYa194TjY0UUVVOGY3QklKSnAwdGxsSXBZMnM5Nk5Zckc1dlExOWxfWGwyOFJuQ3JZVmxjU0ZBbXJ5aWlWQU9uZS1hekhvV19lWjd5cjVCX0VXRUJvaXExaC10dFRfVVVpME5KTW4tb3NhdG9DNU5yandZNHZoeWV1SVVpRFpWaUNEZzVDVWxzM3VLNWp3?oc=5",
+      "published": "2026-10-28 16:01 UTC",
+      "ts": 1793203301,
+      "summary": "The Future of Skin Longevity Is Here: Shaklee® Unveils YOUTH® Exosome Bio-Signal Serum PR Newswire",
+      "topics": [
+        "Longevity"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "published": "2026-10-28 15:53 UTC",
+      "ts": 1793202832,
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "published": "2026-10-28 15:41 UTC",
+      "ts": 1793202078,
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "published": "2026-10-28 15:00 UTC",
+      "ts": 1793199600,
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "STAT News",
+      "title": "STAT+: Why every health care AI company must face Epic",
+      "link": "https://www.statnews.com/2026/10/28/health-care-ai-innovation-challenge-epic-ai-prognosis/?utm_campaign=rss",
+      "published": "2026-10-28 14:52 UTC",
+      "ts": 1793199137,
+      "summary": "In this edition of AI Prognosis: A new investigation into how Epic's market dominance is impacting health tech innovation and AI adoption.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "published": "2026-10-28 14:44 UTC",
+      "ts": 1793198640,
+      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Quantum Insider",
+      "title": "UbiQD Wins New Mexico Grant for Quantum Light Source Development",
+      "link": "https://thequantuminsider.com/2026/10/28/ubiqd-new-mexico-quantum-light-source-grant/",
+      "published": "2026-10-28 14:10 UTC",
+      "ts": 1793196610,
+      "summary": "Insider Brief PRESS RELEASE — UbiQD, Inc., a global leader in quantum dot technology and manufacturing, has received a $200,000 grant through New Mexico’s Quantum Technologies Award from the Economic Development New Mexico (EDNM) Department through its Technology and Innovation Office (TIO). The grant funds development of a key component for quantum computers and ultra-secure quantum […]",
+      "topics": [
+        "Quantum"
+      ]
+    },
+    {
+      "source": "The Quantum Insider",
+      "title": "DataBrushing.AI Launches UEChain for Data Verification and Trust",
+      "link": "https://thequantuminsider.com/2026/10/28/databrushing-ai-uechain-data-verification/",
+      "published": "2026-10-28 14:03 UTC",
+      "ts": 1793196196,
+      "summary": "Insider Brief PRESS RELEASE — AI DataBrushing Technology Co., Ltd. (DataBrushing.AI) launched S.A.F.E.-AI Trusted Platform – UEChain on October 16, a solution built on Public Key Infrastructure (PKI), a Certificate Authority (CA), and digital evidence chain technologies. UEChain is designed to help enterprises and research institutions answer three critical questions: Who provided the data? Has […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "STAT News",
+      "title": "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
+      "link": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
+      "published": "2026-10-28 13:44 UTC",
+      "ts": 1793195099,
+      "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program",
+      "topics": [
+        "Biotech"
+      ]
+    },
+    {
+      "source": "STAT News",
+      "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
+      "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
+      "published": "2026-10-28 13:42 UTC",
+      "ts": 1793194964,
+      "summary": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study.",
+      "topics": [
+        "Biotech"
+      ]
+    },
+    {
+      "source": "ScienceDaily Tech",
+      "title": "Smaller EV batteries, longer range? Scientists may have found a way",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063708.htm",
+      "published": "2026-10-28 12:25 UTC",
+      "ts": 1793190343,
+      "summary": "Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from computer chip production, they found a way to prevent damaging lithium buildup that has held back next-generation batteries.",
+      "topics": [
+        "Energy & Space"
+      ]
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "published": "2026-10-28 12:10 UTC",
+      "ts": 1793189400,
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s…",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "STAT News",
+      "title": "What has actually caused the decline in drug overdose deaths?",
+      "link": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
+      "published": "2026-10-28 12:01 UTC",
+      "ts": 1793188873,
+      "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop.",
+      "topics": [
+        "Biotech"
+      ]
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "Pairing industrial AI autonomy and human control",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "published": "2026-10-28 12:00 UTC",
+      "ts": 1793188800,
+      "summary": "",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Voters in Texas agree: They hate data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "published": "2026-10-28 12:00 UTC",
+      "ts": 1793188800,
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta quietly launched an ‘AI pet journal’ app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "published": "2026-10-28 11:27 UTC",
+      "ts": 1793186850,
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "STAT News",
+      "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
+      "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+      "published": "2026-10-28 10:45 UTC",
+      "ts": 1793184300,
+      "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers.",
+      "topics": [
+        "Biotech"
+      ]
+    },
+    {
+      "source": "ScienceDaily Tech",
+      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+      "published": "2026-10-28 10:29 UTC",
+      "ts": 1793183376,
+      "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration.",
+      "topics": [
+        "Energy & Space"
+      ]
+    },
+    {
+      "source": "OpenAI News",
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "published": "2026-10-28 09:30 UTC",
+      "ts": 1793179800,
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "STAT News",
+      "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+      "link": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+      "published": "2026-10-28 08:30 UTC",
+      "ts": 1793176200,
+      "summary": "“It is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,” writes a pediatrician.",
+      "topics": [
+        "Biotech"
+      ]
+    },
+    {
+      "source": "NextBigFuture",
+      "title": "Solving the $300-500 Billion Problem of DARK GPUs. Connecting Dots",
+      "link": "https://www.nextbigfuture.com/2026/10/solving-the-300-500-billion-problem-of-dark-gpus-connecting-dots.html",
+      "published": "2026-10-28 08:03 UTC",
+      "ts": 1793174626,
+      "summary": "The common view is that stranded AI chips are a write-off, money spent too early. The chips are fine. What’s missing is power. And one company has solved power faster than anyone else. The dark GPU problem Elon Musk has said there could be up to 15 GW of stranded compute sitting in partially completed ... Read more",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "published": "2026-10-28 01:15 UTC",
+      "ts": 1793150128,
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "NextBigFuture",
+      "title": "1118+ Tesla Unsupervised Robotaxi",
+      "link": "https://www.nextbigfuture.com/2026/10/almost-1100-tesla-unsupervised-robotaxi.html",
+      "published": "2026-10-27 23:39 UTC",
+      "ts": 1793144397,
+      "summary": "There are now 1080 Tesla Texas registered unsupervised robotaxi and at least 38 unsupervised robotaxi in Florida. This is 1118 unsupervised Tesla robotaxi in Texas and Florida.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-27 23:34 UTC",
+      "ts": 1793144067,
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "Singularity Hub",
+      "title": "Study Could Help Explain Why Colder Body Temperature Extends Lifespan in Many Species",
+      "link": "https://singularityhub.com/2026/10/27/study-could-help-explain-why-colder-body-temperature-extends-lifespan-in-many-species/",
+      "published": "2026-10-27 20:50 UTC",
+      "ts": 1793134216,
+      "summary": "By chilling roundworms, scientists traced a molecular pathway hinting at one way cold might extend lifespan. The post Study Could Help Explain Why Colder Body Temperature Extends Lifespan in Many Species appeared first on SingularityHub .",
+      "topics": [
+        "Longevity"
+      ]
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "published": "2026-10-27 20:48 UTC",
+      "ts": 1793134138,
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "source": "Hacker News Best",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "published": "2026-10-27 19:55 UTC",
+      "ts": 1793130906,
+      "summary": "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 466 # Comments: 174",
+      "topics": [
+        "AI"
+      ]
+    }
+  ],
+  "errors": {}
+}
